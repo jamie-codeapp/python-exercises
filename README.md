@@ -15,3 +15,7 @@ Based on the bill amount and different tip percentages, divided by the number of
 ## Rock Paper Scissors
 
 A rock, paper, scissors game. Rock beats scissors, scissors beat paper, and paper beats rock.
+
+## Password Generator
+
+This script generates a password based on the number of letters, symbols, and numbers entered by the user.
