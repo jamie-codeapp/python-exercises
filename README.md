@@ -19,3 +19,7 @@ A rock, paper, scissors game. Rock beats scissors, scissors beat paper, and pape
 ## Password Generator
 
 This script generates a password based on the number of letters, symbols, and numbers entered by the user.
+
+## Hangman
+
+Hangman is a guessing game. Player tries to guess it by suggesting letters within a certain number of guesses.
