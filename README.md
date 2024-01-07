@@ -23,3 +23,7 @@ This script generates a password based on the number of letters, symbols, and nu
 ## Hangman
 
 Hangman is a guessing game. Player tries to guess it by suggesting letters within a certain number of guesses.
+
+## Caesar Cipher
+
+Method in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. The action of a Caesar cipher is to replace each plaintext letter with a different one a fixed number of places down the alphabet. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a right shift of 3, D would be replaced by G, E would become H, and so on.
