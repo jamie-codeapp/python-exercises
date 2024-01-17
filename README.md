@@ -31,3 +31,7 @@ Method in which each letter in the plaintext is replaced by a letter some fixed 
 ## Blind Auction
 
 This script will collect the names and bids of different people. The program should ask for each bidder's name and their bid individually. If there are other bidders, the screen should clear, so you can pass your phone to the next person. If there are no more bidders, then the program should display the name of the winner and their winning bid.
+
+## Calculator
+
+This is a simple calculator script. Users can continue calculating based on previous result.
