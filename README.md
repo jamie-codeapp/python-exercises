@@ -35,3 +35,16 @@ This script will collect the names and bids of different people. The program sho
 ## Calculator
 
 This is a simple calculator script. Users can continue calculating based on previous result.
+
+## Blackjack
+
+This is a Blackjack game.
+
+Rules:
+
+-   The deck is unlimited in size.
+-   There are no jokers.
+-   The Jack/Queen/King all count as 10.
+-   The the Ace can count as 11 or 1.
+-   The cards in the list have equal probability of being drawn.
+-   Cards are not removed from the deck as they are drawn.
