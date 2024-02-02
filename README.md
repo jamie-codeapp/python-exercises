@@ -52,3 +52,7 @@ Rules:
 ## Guess The Number
 
 A guess the number game.
+
+## Higher Lower
+
+Guess which account has more followers.
