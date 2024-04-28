@@ -88,3 +88,49 @@ Here's an outline for the provided code:
         -   Any other input: End the game with a generic failure message.
 
 7. End of Program:
+
+## Rock Paper Scissors
+
+1. Importing Module:
+
+-   Import the random module to generate random numbers.
+
+2. ASCII Art Definitions:
+
+-   Define ASCII art representations for rock, paper, and scissors.
+
+3. List of Choices:
+
+-   Create a list containing ASCII art representations for rock, paper, and scissors.
+
+4. User Input:
+
+-   Prompt the user to choose between rock, paper, or scissors by typing 0, 1, or 2.
+-   Convert the input to an integer.
+
+5. Input Validation:
+
+-   Check if the user's choice is between 0 and 2 (inclusive).
+-   If not, print an error message and end the game.
+
+6. Printing Choices:
+
+-   Print the ASCII art representation corresponding to the user's choice.
+
+7. Computer's Choice:
+
+-   Generate a random choice for the computer using random.randint(0, 2).
+-   Print the ASCII art representation corresponding to the computer's choice.
+
+8. Determine Winner:
+
+-   Compare the user's choice with the computer's choice to determine the winner.
+-   Print the result (win, lose, or draw) based on the game rules:
+    -   Rock crushes scissors (user wins).
+    -   Scissors cut paper (user wins).
+    -   Paper covers rock (user wins).
+    -   If both choices are the same, it's a draw.
+
+9. End of Program:
+
+-   Execution of the program ends.
