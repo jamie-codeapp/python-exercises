@@ -134,3 +134,56 @@ Here's an outline for the provided code:
 9. End of Program:
 
 -   Execution of the program ends.
+
+## Password Generator
+
+1. Importing Module:
+
+-   Import the random module to generate random elements.
+
+2. Data Preparation:
+
+-   Define lists containing letters, symbols, and numbers.
+
+3. Introduction:
+
+-   Print a welcoming message for the user.
+
+4. User Input:
+
+-   Prompt the user to input the desired number of letters, symbols, and numbers for the password.
+
+5. Password Generation:
+
+-   Create an empty list to store the characters of the password.
+
+6. For Loop - Letters:
+
+-   Use a for loop to iterate over the desired number of letters.
+-   Randomly select a letter from the letters list and append it to the password list.
+
+7. For Loop - Symbols:
+
+-   Use a for loop to iterate over the desired number of symbols.
+-   Randomly select a symbol from the symbols list and append it to the password list.
+
+8. For Loop - Numbers:
+
+-   Use a for loop to iterate over the desired number of numbers.
+-   Randomly select a number from the numbers list and append it to the password list.
+
+9. Shuffling the Password List:
+
+-   Shuffle the elements of the password list to randomize the order of characters.
+
+10. Password Construction:
+
+-   Join the elements of the password list into a single string to form the password.
+
+11. Print Result:
+
+-   Print the generated password to the user.
+
+12. End of Program:
+
+-   Execution of the program ends.
