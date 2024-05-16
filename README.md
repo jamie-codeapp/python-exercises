@@ -187,3 +187,45 @@ Here's an outline for the provided code:
 12. End of Program:
 
 -   Execution of the program ends.
+
+## Hangman
+
+1. Importing Modules and Resources
+
+-   To import necessary functions and variables from other modules.
+
+2. Initialization
+
+-   To set initial game variables.
+
+3. Game Loop
+
+-   To repeatedly prompt the user for guesses and update the game state accordingly.
+
+    1. Check for Repeated Guesses
+
+    -   To inform the user if they have already guessed a letter.
+
+    2. Update Display
+
+    -   To reveal correctly guessed letters in the display list.
+
+    3. Check for Win Condition
+
+    -   To determine if the user has guessed the entire word.
+
+    4. Handle Incorrect Guesses
+
+    -   To decrement lives and notify the user if the guess is incorrect.
+
+    5. Check for Lose Condition
+
+    -   To determine if the user has run out of lives.
+
+4. Display Current State
+
+-   To print the current state of the display list and remaining lives (using the stages art).
+
+5.  End of Program
+
+-   The program completes its execution when the game ends (either win or lose).
