@@ -229,3 +229,25 @@ Here's an outline for the provided code:
 5.  End of Program
 
 -   The program completes its execution when the game ends (either win or lose).
+
+## Caesar Cipher
+
+1. Importing Module and Constants
+
+-   To import necessary functions and variables.
+
+2. Global Variable
+
+-   To control the loop for repeated user interaction.
+
+3. Define the Caesar Cipher Function
+
+-   To perform the Caesar cipher encoding or decoding.
+
+4. User Interaction Loop
+
+-   To repeatedly interact with the user for encoding/decoding messages until they choose to exit.
+
+5. End of Program
+
+-   The program completes its execution when the user chooses not to continue.
