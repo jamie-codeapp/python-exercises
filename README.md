@@ -251,3 +251,33 @@ Here's an outline for the provided code:
 5. End of Program
 
 -   The program completes its execution when the user chooses not to continue.
+
+## Blind Auction
+
+1. Importing Modules and Constants
+
+-   To import necessary functions and variables.
+
+2. Initialization
+
+-   To set initial game variables.
+
+3. Define the Clear Function
+
+-   To clear the console for better user experience.
+
+4. Define the Add Bid Function
+
+-   To collect a new bid from the user and add it to the `bids` dictionary.
+
+5. Define the Find Highest Bid Function
+
+-   To find and announce the highest bid from the `bids` dictionary.
+
+6. Main Program Loop
+
+-   To repeatedly prompt for bids until there are no more bidders.
+
+7. End of Program
+
+-   The program completes its execution when the bidding process ends.
