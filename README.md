@@ -281,3 +281,29 @@ Here's an outline for the provided code:
 7. End of Program
 
 -   The program completes its execution when the bidding process ends.
+
+## Calculator
+
+1. Importing Module
+
+-   To import necessary functions and variables.
+
+2. Define Basic Arithmetic Functions
+
+-   To perform basic arithmetic operations.
+
+3. Define Operations Dictionary
+
+-   To map operation symbols to their corresponding functions.
+
+4. Define Calculate Function
+
+-   To handle user interaction and perform calculations.
+
+5. Start the Calculator
+
+-   To begin the calculator program by calling the `calculate` function.
+
+6. End of Program
+
+-   The program completes its execution when the user decides to stop calculating.
